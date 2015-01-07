@@ -1,6 +1,6 @@
 # RS232-Communicator
 This program sends messages across 2 com ports.
 
-Written in C#
+Written in Visual C#
 
 Author: Jennifer Peterson
