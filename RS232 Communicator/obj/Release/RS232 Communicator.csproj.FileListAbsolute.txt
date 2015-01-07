@@ -1,0 +1,8 @@
+C:\Users\Jen\Documents\Visual Studio 2013\Projects\RS232 Communicator\RS232 Communicator\bin\Release\RS232 Communicator.exe.config
+C:\Users\Jen\Documents\Visual Studio 2013\Projects\RS232 Communicator\RS232 Communicator\bin\Release\RS232 Communicator.exe
+C:\Users\Jen\Documents\Visual Studio 2013\Projects\RS232 Communicator\RS232 Communicator\bin\Release\RS232 Communicator.pdb
+C:\Users\Jen\Documents\Visual Studio 2013\Projects\RS232 Communicator\RS232 Communicator\obj\Release\RS232_Communicator.Form1.resources
+C:\Users\Jen\Documents\Visual Studio 2013\Projects\RS232 Communicator\RS232 Communicator\obj\Release\RS232_Communicator.Properties.Resources.resources
+C:\Users\Jen\Documents\Visual Studio 2013\Projects\RS232 Communicator\RS232 Communicator\obj\Release\RS232 Communicator.csproj.GenerateResource.Cache
+C:\Users\Jen\Documents\Visual Studio 2013\Projects\RS232 Communicator\RS232 Communicator\obj\Release\RS232 Communicator.exe
+C:\Users\Jen\Documents\Visual Studio 2013\Projects\RS232 Communicator\RS232 Communicator\obj\Release\RS232 Communicator.pdb
